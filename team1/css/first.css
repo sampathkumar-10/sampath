@@ -1,0 +1,33 @@
+	*{
+			padding: 0px;
+			margin:0px;
+		}
+		#a1{
+			height: 500px;
+			background:  linear-gradient(to right, #42bca3 0%, #1d96a1 100%);
+		}
+		.a1{
+			float: right;
+			margin-right: 50px;
+		}
+		#a2{
+			color: white;
+			padding-top: 150px;
+			font-size:50px;
+		}
+		#a3{
+			color: white;
+			
+		}
+		#a4{
+			border: none;
+			border-radius: 20px;
+			background-color: orange;
+			color: white;
+			padding: 10px
+		}
+		.i1{
+			height: 400px;
+			width: 300px;
+			margin: 100px 0 0 100px;
+		}

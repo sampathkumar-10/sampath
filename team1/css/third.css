@@ -1,0 +1,24 @@
+*{
+			padding: 0px;
+			margin: 0px;
+		}
+		#b1{
+			color: green;
+		}
+		.b3{
+			margin-left: 50px
+		}
+		.col{
+			background-color: whitesmoke;
+			height: 130px;
+			width: 320px;
+			margin: 20px 10px 0 0;
+		}
+		.fa-circle-check{
+			font-size: 50px;
+			padding-top:40px;
+		}
+		.b2{
+			float: right;
+			padding: 40px 0 0 0;
+		}

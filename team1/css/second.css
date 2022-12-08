@@ -1,0 +1,46 @@
+	.gree{
+			background-color: #16ba6a;
+		}
+		#h5{
+			top: 30px;
+		}
+		#h1,#h5{
+			color: white;
+			font-weight: 550;
+			/*position: fixed;
+			position: relative;
+			left: 100px;*/
+		}
+		#doc{
+			height: 220px;
+			width: 220px;
+			border-radius: 50%;
+			position: fixed;
+			position: relative;
+			left: 100px;
+			top: 10px;
+		}
+		#l2{
+			list-style-type: none;
+			color: white;
+			padding-bottom: 20px;
+		}
+		.ii{
+			color: #2196f4;
+			font-size: 20px;
+		}
+		span{
+			font-size: 20px;
+			font-weight: 550px;
+			padding-left: 10px;
+		}
+		.to{
+           padding: 30px;
+		}
+		.ri{
+			padding-left: 70px;
+		}
+		#main{
+			padding-left: 50px;
+		}
+		

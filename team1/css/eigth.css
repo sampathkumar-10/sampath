@@ -1,0 +1,47 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#contact
+{
+	background-image: url('../IMAGES/y12.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+#new
+{
+	background-color: white;
+	height: 140px;
+	width: 300px;	
+	border-radius: 5px;
+	position: fixed;
+	position: relative;
+	top: 150px;
+}#cr
+{
+	background-color: black;
+	height: 120px;
+}
+#p10
+{
+	color: black;
+   font-size: 15px;
+}
+#p2
+{
+  color:white;
+  position: relative;
+  top:40px;
+}
+#d1
+{
+	color:#16ba6a;
+	margin: 0px;
+}
+#d3,#d4
+{
+  color: skyblue;
+  text-decoration: none;
+}

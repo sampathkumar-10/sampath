@@ -1,0 +1,37 @@
+*{
+				padding: 0px;
+				margin: 0px;
+				font-family: sans-serif;
+			}
+			#Faq{
+				margin-left: 100px;
+				font-size: 15px;
+			}
+			.qaF{
+				height: 50px;
+				padding-top: 30px;
+			}
+			#Frequently{
+				color: #0db76c;
+				margin-left: 100px;
+				font-weight: 600;
+			}
+			#need{
+				color: #0db76c;
+				font-size: 17px;
+			}
+			.qns{
+				padding-top: 40px;
+				margin-left: 140px;
+			}
+			.nsq{
+				padding-top: 100px;
+			}
+			#Answer{
+				padding-top: 50px;
+			}
+			#amb{
+				height: 400px;
+				width: 500px;
+				margin-left: 40px;
+			}
